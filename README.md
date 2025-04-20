@@ -94,14 +94,14 @@ REACT_APP_API_URL=http://localhost:5000/api
 
 ```bash
 cd backend
-npm start
+npm run dev
 ```
 
 #### Start Frontend
 
 ```bash
 cd ../frontend
-npm start
+npm run start
 ```
 
 🖥️ Visit: [http://localhost:3000](http://localhost:3000)
