@@ -90,14 +90,14 @@ Ensure you have the following installed:
 
    ```bash
    cd backend
-   npm start
+   npm run dev
    ```
 
 2. **Start the frontend development server:**
 
    ```bash
    cd ../frontend
-   npm start
+   npm run start
    ```
 
 3. **Access the application:**
